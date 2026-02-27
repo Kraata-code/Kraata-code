@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jorge Natanael Castolo Gonzalez</h1>
-<h3 align="center">Un estudiante normal de ingenieria de ciencias sociales</h3>
+<h3 align="center">Un estudiante normal de ingenieria de ciencias computacionales y apasionado por los proyectos open source</h3>
+
+<h2>Mis Proyectos</h2>
+<a href="https://github.com/Kraata-code/Harmony">Harmony</a><p>Fork de OuterTune — cliente de YouTube Music construido con Material Design 3 y Kotlin.</p>
+<a>Harmony desktop</a><p>En desarrollo...</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
