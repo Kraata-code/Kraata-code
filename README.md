@@ -7,6 +7,8 @@
 <a>Harmony desktop</a><p>En desarrollo...</p>
 
 <h3 align="left">Connect with me:</h3>
+<p>Whatsapp: +52 33 3971 4043</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/jorge-natanael-castolo-gonzález/"> Jorge Natanael Castolo Gonzalez</a></p>
 <p align="left">
 </p>
 
